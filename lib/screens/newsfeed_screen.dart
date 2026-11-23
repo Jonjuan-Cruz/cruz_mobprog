@@ -49,7 +49,7 @@ class _NewsFeedScreenState extends State<NewsFeedScreen> {
       text: 'I miss you!',
       likes: 200,
       avatarAsset: 'assets/images/avatar_classmate.png',
-      imageAsset: 'assets/images/post_image.png',
+      imageAsset: 'assets/images/imissyou.jpg',
     ),
   ];
   void _toggleLike(int index) {
